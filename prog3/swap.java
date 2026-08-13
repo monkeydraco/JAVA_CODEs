@@ -21,5 +21,7 @@ public class swap
         System.out.println("A="+a);
         System.out.println("B="+b);
 
+        sc.close();
+
     }
 }
