@@ -24,7 +24,9 @@ public class calculator
         System.out.println("Product: "+product);
         System.out.println("Quotient: "+quo);
         System.out.println("Remainder: "+rem);
-            
+
+        sc.close();
+
 
     }
 }
