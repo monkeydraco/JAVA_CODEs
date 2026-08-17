@@ -5,8 +5,6 @@ public class vowcon
 {
     public void main()
     {
-        int vow;
-        int con;
         char word;
         Scanner sc = new Scanner(System.in);
 
