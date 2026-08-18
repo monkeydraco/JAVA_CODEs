@@ -36,9 +36,9 @@ Work through each section in order — don't skip Loops, Arrays, and Strings, si
 24. Print the Fibonacci series up to N terms.
 25. Check if a number is prime.
 26. Print all prime numbers between 1 and N.
-27. Sum of digits of a number.
+27. Check if a number is a palindrome. 
 28. Reverse a number.
-29. Check if a number is a palindrome.
+29. Sum of digits of a number.
 30. Check if a number is an Armstrong number.
 31. Print the sum of natural numbers from 1 to N.
 32. Print a right-angled triangle pattern of stars.
