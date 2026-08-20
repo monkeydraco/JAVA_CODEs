@@ -1,0 +1,27 @@
+package prog34;
+import java.util.Scanner;
+
+public class pascals1 
+{
+    public void main()
+    {
+    int n;
+    Scanner sc=new Scanner(System.in);
+
+    n=sc.nextInt();
+
+        for(int i=0;i<n;i++)
+        {
+            for(int j=2n-1;j<0;j--)
+            {
+                
+
+            }
+
+        }
+
+
+    }
+
+    
+}
